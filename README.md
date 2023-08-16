@@ -7,6 +7,8 @@ Lets Deploy an ECS Cluster.
 
 [![Launch Stack](https://cdn.rawgit.com/buildkite/cloudformation-launch-stack-button-svg/master/launch-stack.svg)](https://console.aws.amazon.com/cloudformation/home#/stacks/new?stackName=v1es-ecs-fargate&templateURL=https://immersionday-workshops-trendmicro.s3.amazonaws.com/application-security/c1as-fargate-workshop.yaml)
 
+For URI: use this value: ```public.ecr.aws/x7r3s3k0/public-ambassador-v1cs-pygoat-tm:latest```
+
 ---
 ### 1. Deploy the Vision One Connector.
 - **Service Management > Cloud Accounts > +Add Account**
