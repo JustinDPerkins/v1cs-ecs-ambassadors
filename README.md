@@ -9,6 +9,7 @@ Lets Deploy an ECS Cluster.
 [![Launch Stack](https://cdn.rawgit.com/buildkite/cloudformation-launch-stack-button-svg/master/launch-stack.svg)](https://console.aws.amazon.com/cloudformation/home#/stacks/new?stackName=v1es-ecs-fargate&templateURL=https://immersionday-workshops-trendmicro.s3.amazonaws.com/container-security/v1cs-ecs.yaml)
 
 **Before Continuing Make sure Stack completes successfully**
+![Diagram](/images/cft.jpg)
 
 ---
 ### 2. Deploy the Vision One Connector.
@@ -30,5 +31,10 @@ Lets Deploy an ECS Cluster.
 ---
 
 ## Awesome Connection has been established lets check for any introduced Risks into my environment.
+- In Vision One: Cloud Security Operations > Container Security > Container Protection
+- Select the **Vulnerability** tab
+- Select **ECS** tab.
+
+![connection](/images/v1cs-view.jpg)
 
 ---
